@@ -1,0 +1,12 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Practical_2.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Practical_2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
